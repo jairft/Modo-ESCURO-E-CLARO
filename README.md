@@ -1,2 +1,2 @@
-# Modo-ESCURO-E-CLARO
-Mudar a cor da tela para modo escuro e claro
+Tema Escuro e Claro
+Muda o tema da tela para claro e escuro
